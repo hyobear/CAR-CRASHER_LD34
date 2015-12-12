@@ -15,7 +15,7 @@ m   = Proxy(function(k) return love.audio.newSource('msc/' .. k .. '.wav', 'stre
 
 function love.load(arg)
 	love.graphics.setDefaultFilter('nearest', 'nearest')
-	st = {start = true, game = false, gEnd = false}
+	st = {splash = true, start = false, options = false, songSelect = false, game = false, gEnd = false}
 	scale = 1
 end
 

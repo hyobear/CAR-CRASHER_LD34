@@ -3,7 +3,7 @@ function love.conf(t)
     t.version = "0.9.2"                -- The LÖVE version this game was made for (string)
     t.console = false                  -- Attach a console (boolean, Windows only)
  
-    t.window.title = "LD33"        -- The window title (string)
+    t.window.title = "DDDR - DUMB DUMB DANCE REIGN"        -- The window title (string)
     t.window.icon = nil                -- Filepath to an image to use as the window's icon (string)
     t.window.width = 150        -- The window width (number)
     t.window.height = 130       -- The window height (number)
