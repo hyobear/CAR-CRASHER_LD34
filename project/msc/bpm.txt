@@ -1,5 +1,0 @@
-ambler = 83 bpm, 0:46
-gocart = 115 bpm, 1:23
-honeybee = 100 bpm, 0:57
-jaunty_gump = 146 bpm, 1:58
-move_fow = 111 bpm, 1:09
