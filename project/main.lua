@@ -16,6 +16,7 @@ m   = Proxy(function(k) return love.audio.newSource('msc/' .. k .. '.wav', 'stre
 splash = require('src.splash')
 start = require('src.start')
 options = require('src.options')
+<<<<<<< HEAD
 song = require('src.song')
 
 function love.load()
@@ -27,6 +28,17 @@ function love.load()
 	start.load()
 	options.load()
 	song.load()
+=======
+
+function love.load()
+	scale = 1
+	love.graphics.setDefaultFilter('nearest', 'nearest')
+	font = love.graphics.newFont('fnt.ttf', 8 * scale)
+	bg = {r = 255, g = 255, b = 255}
+	st = {splash = true, start = false, options = false, game = false, gameOver = false}
+	splash.load()
+	start.load()
+>>>>>>> origin/master
 end
 
 function love.draw()
@@ -61,12 +73,16 @@ end
 function love.keypressed(k)
 	if k == 'escape' then
 	   	love.event.quit()
+<<<<<<< HEAD
 	elseif st.splash or st.start or st.options or st.song == true then
 		if k == 'left' or 'right' then
 			s.key:play()
 		end
 	end
 
+=======
+	end
+>>>>>>> origin/master
 	if st.splash == true then
 		splash.keypressed(k)
 	elseif st.start == true then

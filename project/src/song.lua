@@ -5,11 +5,7 @@ function publicStart.load()
 end
 
 function publicStart.draw(startScale)
-<<<<<<< HEAD
-	love.graphics.printf('Press left to go to options, press right to start game', love.window.getWidth()/4 - 20, 100 * startScale,
-=======
 	love.graphics.printf('Press left to go to options, press right to select song', love.window.getWidth()/4 - 20, 60 * startScale,
->>>>>>> origin/master
 		100, center, 0, startScale, startScale)
 end
 

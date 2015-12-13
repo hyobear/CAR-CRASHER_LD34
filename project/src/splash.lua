@@ -3,6 +3,10 @@ local publicSplash = {}
 local counter = 0
 function publicSplash.load()
 	dttemp = 0
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 end
 
 function publicSplash.draw(splash, splashScale)
