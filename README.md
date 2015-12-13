@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# LD34
-My LD34 game.
-=======
 # Car Juke [LD34]
 
 **0.45a [12-13-15]**
@@ -16,4 +12,3 @@ Added rudimentary splash screen and menus.
 **0.01a [12-11-15]**
 
 Repository set up.
->>>>>>> origin/master
