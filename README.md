@@ -14,11 +14,11 @@ Choosing a rhythm game as my first LD game was a bit overambitous.
 
 **0.40a [12-12-15]**
 
-Added rudimentary splash screen and menus.
++ Added rudimentary splash screen and menus.
 
 **0.01a [12-11-15]**
 
-Repository set up.
+* Repository set up.
 
 Programs used:
 
