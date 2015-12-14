@@ -14,5 +14,7 @@ Added rudimentary splash screen and menus.
 Repository set up.
 
 Programs used:
+
 LOVE 0.9.2
+
 GraphicsGale Free Edition
