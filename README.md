@@ -1,5 +1,12 @@
 # LD34
 
+**0.65a [12-13-15]**
+
++ New (terrible) sprites.
++ Functional but incomplete gameplay.
++ Added a sound effect.
++ Updated Splash screen.
+
 **0.45a [12-13-15]**
 
 Changed game entirely, no longer a rhythm game, now a simplistic and endless shoot 'em up car game.
