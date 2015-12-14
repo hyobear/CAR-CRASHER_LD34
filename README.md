@@ -7,6 +7,10 @@
 + Added a sound effect.
 + Updated Splash screen.
 
+*Known Bugs*
+
++ If user uses any scale besides the original, the car can go past the boundaries of the road and screen.
+
 **0.45a [12-13-15]**
 
 Changed game entirely, no longer a rhythm game, now a simplistic and endless shoot 'em up car game.
