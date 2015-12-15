@@ -11,9 +11,8 @@
 + You can no longer press left to get past splash screen because it changes window size when switching into start state.
 + Player car only moves on set lanes in order to avoid having to do edge detection for movement.
 + Game progressively gets harder to play as time goes on.
-
-- Removed all sound effects and music from game and files.
-- Removed options screen.
++ Removed all sound effects and music from game and files.
++ Removed options screen.
 
 **0.65a [12-13-15]**
 
