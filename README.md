@@ -14,6 +14,9 @@
 + Removed all sound effects and music from game and files.
 + Removed options screen.
 
+*Known Bugs*
++ Player can just spam left and right to get far.
+
 **0.65a [12-13-15]**
 
 + New (terrible) sprites.
