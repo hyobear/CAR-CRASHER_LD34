@@ -1,6 +1,6 @@
 ### HOW TO RUN SOURCE CODE
-Download LOVE: https://love2d.org/
-Download repo by clicking "Clone or download".
++ Download LOVE: https://love2d.org/
++ Download repo by clicking "Clone or download".
 
 #### METHOD 1
 1. Extract downloaded zip.
