@@ -1,4 +1,16 @@
-# CAR CRASHER CHANGELOG
+### HOW TO RUN SOURCE CODE
+Download LOVE: https://love2d.org/
+Download repo by clicking "Clone or download".
+
+#### METHOD 1
+1. Extract downloaded zip.
+2. Drag extracted folder onto your LOVE executable.
+
+#### METHOD 2
+1. Rename zip to "insert_name_here.love"
+2. Open file with LOVE executable.
+
+### CAR CRASHER CHANGELOG
 
 **1.0a [12-14-15]**
 
